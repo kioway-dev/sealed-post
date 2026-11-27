@@ -12,7 +12,7 @@ Sealed Post is built in two layers:
 | Piece | Path | Status |
 |---|---|---|
 | Package | `gno.land/p/g1gu8mdvjg8l5wj2ytknhs7pmyu0rmeclyvvlsd8/commitreveal` | Live |
-| Realm | `gno.land/r/g1gu8mdvjg8l5wj2ytknhs7pmyu0rmeclyvvlsd8/sealedpost` | Deployed (addpkg tx at height 1348160), pending GPAS activation |
+| Realm | `gno.land/r/g1gu8mdvjg8l5wj2ytknhs7pmyu0rmeclyvvlsd8/sealedpost` | Live on Onyx testnet; demo capsule 1 sealed and revealed |
 
 Browse the realm: https://latest.testnets.gno.land/r/g1gu8mdvjg8l5wj2ytknhs7pmyu0rmeclyvvlsd8/sealedpost
 
